@@ -12,3 +12,6 @@
 
 #division
 20/2
+
+#raiz cuadrada
+sqrt(36)
