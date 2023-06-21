@@ -7,5 +7,8 @@
 #resta
 25-22
 
+#multiplicacion
+2*10
+
 #division
 20/2
