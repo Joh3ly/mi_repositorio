@@ -3,3 +3,9 @@
 
 #Inicio
 1+10
+
+#resta
+25-22
+
+#division
+20/2
